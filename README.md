@@ -1,5 +1,7 @@
 # vue-ts-practice
 
+(参考サイト)[https://qiita.com/nrslib/items/be90cc19fa3122266fd7]
+
 ## Project setup
 ```
 npm install
@@ -14,6 +16,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
